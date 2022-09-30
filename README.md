@@ -22,3 +22,6 @@ PK 생성 전략을 설정하는 어노테이션, MySQL은 자동 증가(AUTO_IN
 
 ### JPA 레파지토리(Repository) BoardRepository.java 인터페이스 생성
 인터페이스 생성이 완료되면 다음과 같이 JpaRepository<T, D> 인터페이스를 상속받아 주면 된다. 
+
+### BoardTest.java
+테스트 코드에서 확인 가능 하다.
